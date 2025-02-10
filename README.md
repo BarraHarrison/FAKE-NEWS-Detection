@@ -1,4 +1,4 @@
-# 📰 Fake News Detection using ML Tecniques
+# 📰 Fake News Detection using ML Techniques
 
 ## 📌 Introduction  
 This project uses **Machine Learning (ML)** to classify news articles as either **real or fake**. By leveraging **Natural Language Processing (NLP)** and a **Support Vector Machine (SVM)** classifier, we analyze text-based news articles and determine their authenticity.    
